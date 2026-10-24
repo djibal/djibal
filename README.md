@@ -27,5 +27,7 @@ I believe great software comes from curiosity, thoughtful design, and continuous
 - GitHub: https://github.com/djibal
 - Website: https://orbitaltech.dev
 - Organisation: https://github.com/dji-7
+  
+- Contact me by WhatsApp - text or voice message only: [WhatsApp](https://wa.me/message/ANASP6O5K7TEO1)
 
 "Build boldly. Learn constantly. Create meaningfully."
