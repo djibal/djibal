@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Djibal
-- %99 my repositories are private. 
+- % 99 of this account repositories are private. 
 
 Creative Developer | AI & Software Engineering | Building secure, intelligent, and meaningful digital experiences. 🚀
 
