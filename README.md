@@ -25,10 +25,18 @@ Imagine → Design → Build → Test → Improve → Share
 I believe great software comes from curiosity, thoughtful design, and continuous iteration.
 
 ## Let’s Connect
-- GitHub: https://github.com/djibal
+- GitHub Profile: https://github.com/djibal
 - Website: https://orbitaltech.dev
-- Organisation: https://github.com/dji-7
-  
-- Contact me by WhatsApp - text or voice message only: [WhatsApp](https://wa.me/message/ANASP6O5K7TEO1)
+----
+### 📚 Public Repositories:
+- Issues found on microsoft/WSL:  https://github.com/dji-7/WSL
+- Source code behind the Windows Subsystem for Linux documentation: 🔗 https://github.com/djibal/WSL-Docs
+- An intelligent, secure, and cross-platform framework for desktop computers: 🔗 https://github.com/djibal/AegisDesk
+- AI Smart Maps: 🔗 https://github.com/djibal/ai-smart-maps
+- Routing core and the iOS, Android, and web adapters: 🔗 https://github.com/djibal/ai-smart-maps-core
+- Falsification test for assumption A1: 🔗 https://github.com/djibal/ai-smart-maps-a1
+- Canary, mesh accept rules, and the network contract: 🔗 https://github.com/djibal/ai-smart-maps-later
 
-"Build boldly. Learn constantly. Create meaningfully."
+- Contact me by WhatsApp - text or voice message only: 💬 [WhatsApp](https://wa.me/message/ANASP6O5K7TEO1)
+
+### Build boldly - Learn constantly - Create meaningfully 
