@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Djibal
-- % 99 of this account repositories are private. 
+- For any request regarding a private collaboration, please submit a formal request. 
 
 Creative Developer | AI & Software Engineering | Building secure, intelligent, and meaningful digital experiences. 🚀
 
